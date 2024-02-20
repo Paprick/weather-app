@@ -1,0 +1,170 @@
+{   
+    "documentTitle": "{{location}} weather",
+    "searchBarPlaceholder": "City or Postcode",
+    "searchResults": {
+        "country": "Country",
+        "city": "City",
+        "area": "Area",
+        "noResultsFound": "No results found"
+    },
+    "userOptions": {
+        "units": {
+            "groupLabel": "Units",
+            "option": {
+                "Temperature Unit": {
+                    "label": "Temperature Unit",
+                    "options": {
+                        "Celsius": "Celsius",
+                        "Fahrenheit": "Fahrenheit"
+                    }
+                },
+                "Speed Unit": {
+                    "label": "Speed Unit",
+                    "options": {
+                        "Kilometers": "Kilometers",
+                        "Miles": "Miles",
+                        "Knots": "Knots"
+                    }
+                },
+                "Precipitation Unit": {
+                    "label": "Precipitation Unit",
+                    "options": {
+                        "Milimeters": "Milimeters",
+                        "Inches": "Inches"
+                    }
+                }
+            }
+        },
+        "languages": {
+            "groupLabel": "Language",
+            "label": "Language",
+            "options": {
+                "English": "English",
+                "Polish": "Polish"
+            }
+        }
+    },
+    "unitAbbreviations": {
+        "inch": "inch",
+        "mm": "mm",
+        "cm": "cm",
+        "km": "km",
+        "mi": "mi",
+        "km/h": "km/h",
+        "mp/h": "mp/h",
+        "kn": "kn",
+        "hPa": "hPa"
+    },
+    "timeScaleWeather": {
+        "hourly": "Hourly",
+        "daily": "Daily",
+        "today": "Today",
+        "tomorrow": "Tomorrow",
+        "daysOfTheWeek": {
+            "monday": "Monday",
+            "tuesday": "Tuesday",
+            "wednesday": "Wednesday",
+            "thursday": "Thursday",
+            "friday": "Friday",
+            "saturday": "Saturday",
+            "sunday": "Sunday"
+        }
+    },
+    "expandedWeather": {
+        "precipitation": "Precipitation",
+        "probability": "Probability",
+        "rain": "Rain",
+        "showers": "Showers",
+        "snow": "Snow",
+        "windDirection": "Wind direction",
+        "directions": {
+            "north": "North",
+            "northEast": "North-East",
+            "east": "East",
+            "southEast": "South-East",
+            "south": "South",
+            "southWest": "South-West",
+            "west": "West",
+            "northWest": "North-West"
+        },
+        "windSpeed": "Wind speed",
+        "perceivedTemperature": "Perceived temperature",
+        "relativeHumidity": "relative humidity",
+        "airPressure": "Air pressure",
+        "visibility": "Visibility"
+    },
+    "sunPosition": {
+        "sunRise": "Sun rise",
+        "sunSet": "Sun set",
+        "moonRise": "Moon rise",
+        "moonSet": "Moon set"
+    },
+    "weatherCodes": {
+        "unknownWeather": "Unknown weather",
+        "clearSky": "Clear sky",
+        "mainlyClear": "Mainly clear",
+        "partlyCloudy": "Partly cloudy",
+        "cloudy": "Cloudy",
+        "fog": "Fog",
+        "frostFog": "Frosy fog",
+        "lightDrizzle": "Light drizzle",
+        "moderateDrizzle": "Moderate drizzle",
+        "heavyDrizzle": "Heavy drizzle",
+        "lightFreezingDrizzle": "Light freezing drizzle",
+        "heavyFreezingDrizzle": "Heavy freezing drizzle",
+        "lightRaing": "Light rain",
+        "moderateRain": "Moderate rain",
+        "heavyRain": "Heavy rain",
+        "LightFreezingRain": "Light freezing rain",
+        "HeavyFreezingRain": "Heavy freezing rain",
+        "lightSnowfall": "Light snowfall",
+        "moderateSnowfall": "Moderate snowfall",
+        "heavySnowfall": "Heavy snowfall",
+        "snowGrains": "Snow grains",
+        "slightRainShowers": "Slight rain showers",
+        "moderateRainShowers": "Moderate rain showers",
+        "violentRainShowers": "Violent rain showers",
+        "slightSnowShowers": "Slight snow showers",
+        "heavySnowShowers": "Heavy snow showers",
+        "thunderstorm": "Thunderstorm",
+        "thunderstormSlightHail": "Thunderstorm with slight hail",
+        "thunderstormHeavyHail": "Thunderstorm with heavy hail"
+    },
+    "errors": {
+        "genericError": "Oops! Something went wrong"
+    },
+    "accessibility": {
+        "buttons": {
+            "ariaSettings": "Settings"
+        },
+        "images": {
+            "searchMG": "Magnifying glass",
+            "locationPin": "Location Pin",
+            "sunPosition": "The sun is {{percentage}}% on its way to sunset",
+            "moonPosition": "The moon is {{percentage}}% on its way to moonset"
+        },
+        "landmarks": {
+            "citySearchSection": "City search and options",
+            "optionsSection": "Options window",
+            "currentWeatherSection": "Current weather",
+            "timeScaleWeatherSection": "Time scale weather",
+            "advancedWeatherSection": "Advanced weather information",
+            "sunPositionSection": "Sun or moon position"
+        },
+        "labels": {
+            "day": "Day",
+            "dayName": "Day Name",
+            "weatherDescription": "Weather Description",
+            "maxDegrees": "Maximum Degrees",
+            "minDegrees": "Minimum Degrees"
+        },
+        "selectInput": {
+            "disabled": "disabled",
+            "focusMsg": "You are currently focused on option {{option}}",
+            "firstTimeGuaidance": "Press down to open the menu",
+            "optionSelectionGuaidance": "Press up and down to choose options, press enter to select the currently focused option, press esc to exit the menu, press tab to select the option and exit the menu",
+            "onChangeGuaidance": "Option {{option}} selected",
+            "onFilterGuaidance": "{{length}} options available"
+        } 
+    }
+}

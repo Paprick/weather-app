@@ -1,0 +1,170 @@
+{
+    "documentTitle": "{{location}} pogoda",
+    "searchBarPlaceholder": "Miasto lub Kod pocztowy",
+    "searchResults": {
+        "country": "Kraj",
+        "city": "Miasto",
+        "area": "Obszar",
+        "noResultsFound": "Nie znaleziono wyników"
+    },
+    "userOptions": {
+        "units": {
+            "groupLabel": "Jednostki",
+            "option": {
+                "Temperature Unit": {
+                    "label": "Jednostka Temperatury",
+                    "options": {
+                        "Celsius": "Celciusz",
+                        "Fahrenheit": "Fahrenheit"
+                    }
+                },
+                "Speed Unit": {
+                    "label": "Jednostka Szybkości",
+                    "options": {
+                        "Kilometers": "Kilometry",
+                        "Miles": "Mile",
+                        "Knots": "Węzły"
+                    }
+                },
+                "Precipitation Unit": {
+                    "label": "Jednostka Opadów",
+                    "options": {
+                        "Milimeters": "Milimetry",
+                        "Inches": "Cale"
+                    }
+                }
+            }
+        },
+        "languages": {
+            "groupLabel": "Język",
+            "label": "Język",
+            "options": {
+                "English": "Angielski",
+                "Polish": "Polski"
+            }
+        }  
+    },
+    "unitAbbreviations": {
+        "inch": "cali",
+        "mm": "mm",
+        "cm": "cm",
+        "km": "km",
+        "mi": "mi",
+        "km/h": "km/h",
+        "mp/h": "mp/h",
+        "kn": "w",
+        "hPa": "hPa"
+    },
+    "timeScaleWeather": {
+        "hourly": "Cogodzinna",
+        "daily": "Codzienna",
+        "today": "Dziś",
+        "tomorrow": "Jutro",
+        "daysOfTheWeek": {
+            "monday": "Poniedziałek",
+            "tuesday": "Wtorek",
+            "wednesday": "Środa",
+            "thursday": "Czwartek",
+            "friday": "Piątek",
+            "saturday": "Sobota",
+            "sunday": "Niedziela"
+        }
+    },
+    "expandedWeather": {
+        "precipitation": "Opady",
+        "probability": "Prawdopodobieństwo",
+        "rain": "Deszcz",
+        "showers": "Przelotne deszcze",
+        "snow": "Śnieg",
+        "windDirection": "Kierunek wiatru",
+        "directions": {
+            "north": "Północ",
+            "northEast": "Północny-Wschód",
+            "east": "Wschód",
+            "southEast": "Południowy-Wschód",
+            "south": "Południe",
+            "southWest": "Południowy-Zachód",
+            "west": "Zachód",
+            "northWest": "Północny-Zachód"
+        },
+        "windSpeed": "Szybkość wiatru",
+        "perceivedTemperature": "Odczuwalna temperatura",
+        "relativeHumidity": "Wilgotność względna",
+        "airPressure": "Ciśnienie powietrza",
+        "visibility": "Widoczność"
+    },
+    "sunPosition": {
+        "sunRise": "Wschód Słońca",
+        "sunSet": "Zachód Słońca",
+        "moonRise": "Wschód Księżyca",
+        "moonSet": "Zachód Księżyca"
+    },
+    "weatherCodes": {
+        "unknownWeather": "Nieznana pogoda",
+        "clearSky": "Czyste Niebo",
+        "mainlyClear": "Głównie bezchmurno",
+        "partlyCloudy": "Częściowe zachmurzenie",
+        "cloudy": "Pochmurno",
+        "fog": "Mgła",
+        "frostFog": "Mroźna mgła",
+        "lightDrizzle": "Lekka mżawka",
+        "moderateDrizzle": "Umiarkowana mżawka",
+        "heavyDrizzle": "Silna mżawka",
+        "lightFreezingDrizzle": "Lekka mroźna mżawka",
+        "heavyFreezingDrizzle": "Silna mroźna mżawka",
+        "lightRaing": "Lekki deszcz",
+        "moderateRain": "Umiarkowany deszcz",
+        "heavyRain": "Silny deszcz",
+        "LightFreezingRain": "Lekki mroźny deszcz",
+        "HeavyFreezingRain": "Silny mroźny deszcz",
+        "lightSnowfall": "Lekki śnieg",
+        "moderateSnowfall": "Umiarkowany śnieg",
+        "heavySnowfall": "Silny śnieg",
+        "snowGrains": "Ziarna śniegu",
+        "slightRainShowers": "Lekkie przelotne deszcze",
+        "moderateRainShowers": "Umiarkowane przelotne deszcze",
+        "violentRainShowers": "Gwałtowne przelotne deszcze",
+        "slightSnowShowers": "Lekki przelotny śnieg",
+        "heavySnowShowers": "Silny przelotny śnieg",
+        "thunderstorm": "Burza z piorunami",
+        "thunderstormSlightHail": "Burza z lekkim gradem",
+        "thunderstormHeavyHail": "Burza z silnym gradem"
+    },
+    "errors": {
+        "genericError": "Ups! Coś poszło nie tak"
+    },
+    "accessibility": {
+        "buttons": {
+            "ariaSettings": "Ustawienia"
+        },
+        "images": {
+            "searchMG": "Szkło powiększające",
+            "locationPin": "Pinezka",
+            "sunPosition": "Słońce jest w {{percentage}}% w drodze do zachodu",
+            "moonPosition": "Księżyc jest w {{percentage}}% w drodze do zachodu"
+        },
+        "landmarks": {
+            "citySearchSection": "Wyszukanie miasta i opcje",
+            "optionsSection": "Okienko opcji",
+            "currentWeatherSection": "Obecna pogoda",
+            "timeScaleWeatherSection": "Pogoda w skali czasu",
+            "advancedWeatherSection": "Zaawansowane informacje o pogodzie",
+            "sunPositionSection": "Pozycja słońca lub księżyca"
+        },
+        "labels": {
+            "day": "Dzien",
+            "dayName": "Dzien tygodnia",
+            "weatherDescription": "Opis pogody",
+            "maxDegrees": "Maksymalna temperatura",
+            "minDegrees": "Minimalna temperatura"
+        },
+        "selectInput": {
+            "disabled": "niedostępny",
+            "focusMsg": "Jesteś teraz na opcji {{option}}",
+            "firstTimeGuaidance": "Naciśnij strzałkę w dół by rozwinąć listę",
+            "optionSelectionGuaidance": "Naciśnij strzałkę w dół lub górę aby wybrać opcje, naciśnij enter by wybrać, naciśnij esc by wyjść, naciśnij tab wy wybrać i wyjść",
+            "onChangeGuaidance": "Wybrana opcja {{option}}",
+            "onFilterGuaidance": "{{length}} opcje dostępne"
+        }
+    }
+}
